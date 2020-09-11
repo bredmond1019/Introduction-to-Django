@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "mypython/bin/python3.5",
+    "python.analysis.disabled": [
+        "unresolved-import"
+    ]
+}

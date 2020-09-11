@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Lacquer';
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+/* or we could have done the following since we made that table a class */
+/* .art{
+    margin:auto;
+ } */
+
+ td{
+    width: 200px;
+    height: 300px;
+    border: 6px solid white
+    
+
+}
+
+#one{
+    background-color: #05668D;
+    
+    
+
+}
+
+#two{
+    background-color: #028090;
+}
+
+#three{
+    background-color: #00A896;
+}
+
+#four{
+    background-color: #02C39A;
+}
+
+#five{
+    background-color: #F0F3BD;
+}

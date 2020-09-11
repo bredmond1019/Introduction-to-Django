@@ -1,0 +1,54 @@
+body{
+    background-color: #243958;
+    color: #66BCCC;
+    border-left: #00ACC6 solid 60px;
+    border-right: #00ACC6 solid 60px;
+    border-bottom: #00ACC6 solid 60px;
+    text-align: center;
+    margin: 0px;
+    
+   
+}
+
+input, label{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+h1{
+    font-family: 'Permanent Marker';
+}
+h2,p, form{
+    font-family: 'Yeon Sung';
+}
+
+p{
+    /* padding:0px 300px 0px; */
+    padding:5% 25% 5%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
+    
+}
+
+form{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#sub{
+    background-color: #5BBA6F;
+    margin-top: 12px;
+    height: 80px;
+    width: 150px;
+    font-size: 1em;
+    border-radius: 25px;
+
+}
